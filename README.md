@@ -9,4 +9,4 @@
 
 <div align="center">
 
- ${\textsf{\color{#817b7b} sign my shit -->  }}$     [my super cool ata](https://jerma985.atabook.org) extra info also -->  [lurk me](https://scout.lurk.me) 
+ ${\textsf{\color{#817b7b} sign my shit -->  }}$     [my super cool ata](https://jerma985.atabook.org)  ${\textsf{\color{#817b7b} info o bout me -->  }}$     [lurkme](https://scout.lurk.me)
