@@ -1,6 +1,3 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=3B3839&center=true&width=435&lines=2+to+the+1+from+the+1+to+the+3;i+like+good+pussy+n+i+like+good+tree;smoke+so+much+weed+u+wouldnt+believe;n+i+get+more+ass+than+a+toilet+seat" alt="Typing SVG" /></a>
 
 
 <div align="center">
