@@ -1,6 +1,6 @@
 
 
-
+<img src="https://github.com/user-attachments/assets/340e080d-516a-4baa-a642-6efa3a8fe51c" width="250" align="left" hspace="25"/>
 
 
 <div align="center">
@@ -9,11 +9,9 @@
 
 
 
-
-<img src="https://github.com/user-attachments/assets/340e080d-516a-4baa-a642-6efa3a8fe51c" width="250" align="right" hspace="25" align="left" hspace="25"/>
   
 
-  <img width="450" height="47" alt="tumblr_0cb203bc5053684d240621dabef4374c_0f4198e7_1280" src="https://github.com/user-attachments/assets/4fe9ae98-a6e4-4b6b-b035-8aa5a41508cc" />
+  <img width="600" height="40" alt="tumblr_d6147a083dd2e77a28cd8b4b12cb0d23_37627206_75" src="https://file.garden/ajqVaEVMLSyknDjG/tumblr_0cb203bc5053684d240621dabef4374c_0f4198e7_1280.gif">
   
 
 
