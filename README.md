@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jerma985_%28Icon%29.png/revision/latest?cb=20221128212651"/> $\color{#817b7b}{\textsf{︶}}\qquad$ [ata](https://jerma985.atabook.org) [lurkme](https://scout.lurk.me) $\color{#817b7b}{\textsf{︶}}\qquad$ [main](https://github.com/literallyscout)
+<img width="30" height="30" alt="" src="https://static.wikia.nocookie.net/logopedia/images/c/ce/Jerma985_%28Icon%29.png/revision/latest?cb=20221128212651"/> $\color{#817b7b}{\textsf{︶}}\qquad$ [ata](https://jerma985.atabook.org) [lurkme](https://scout.lurk.me) $\color{#817b7b}{\textsf{︶}}\qquad$ [main](https://github.com/BLUSC0UT)
 
 
 
